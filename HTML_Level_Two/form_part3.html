@@ -8,12 +8,14 @@
 <body>
     <h1>Hotel Feedback Form</h1>
     <form action="" method="get">
+        <!-- radio -->
         <h2>Are you from Inside India? or from Outside India?</h2>
         <label for="inIndia">Inside: </label>
         <input type="radio" name="loc" id="inIndia" value="Inside">
         <label for="outIndia">Outside: </label>
         <input type="radio" name="loc" id="outIndia" value="Outside">
 
+        <!-- dropdown -->
         <h2>How was our service?</h2>
         <select name="stars" id="">
             <option value="Great">3</option>
@@ -21,6 +23,7 @@
             <option value="Bad">1</option>
         </select>
 
+        <!-- textarea -->
         <h2>Any other Feedback?</h2>
         <textarea name="mytext" id="" cols="80" rows="8"></textarea>
         <input type="submit" name="" id="" value="Submit">

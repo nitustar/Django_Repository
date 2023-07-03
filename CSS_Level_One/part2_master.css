@@ -1,0 +1,23 @@
+/* selected tag{
+    property: value
+} */
+
+body{
+    background: grey;
+}
+
+div{
+    background: lightblue;
+    border-color: blueviolet;
+    border-width: thin;
+    border-style: dashed;
+}
+
+p{
+    background-color: chocolate;
+    color: white; 
+}
+
+span{
+    color: red;
+}
