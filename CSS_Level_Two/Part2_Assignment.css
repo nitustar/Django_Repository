@@ -1,0 +1,43 @@
+#c1{
+    background: #0081A7;
+    height: 300px;
+    width: 200px;
+    margin: 5px;
+}
+
+#c2{
+    background: #00AFB9;
+    height: 300px;
+    width: 200px;
+    margin: 5px;
+}
+
+#c3{
+    background: #D0F4DE;
+    height: 300px;
+    width: 200px;
+    margin: 5px;
+}
+
+#c4{
+    background: #FED9B7;
+    height: 300px;
+    width: 200px;
+    margin: 5px;
+}
+
+#c5{
+    background: #F07167;
+    height: 300px;
+    width: 200px;
+    margin: 5px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+table{
+    margin: auto;
+}
